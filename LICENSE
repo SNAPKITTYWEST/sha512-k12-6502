@@ -1,0 +1,12 @@
+SOVEREIGN TRI-LICENSE
+Copyright (C) 2026 Ahmad Ali Parr, Jessica L. Williams / SNAPKITTYWEST
+Bel Esprit D'Accord Irrevocable Trust
+
+Choose any one: AGPL-3.0-only | BSL 1.1 → MIT (2029-01-01) | MIT (post-2029)
+
+PROTECTED INVENTIONS:
+  1. SHA-512 as leaf hash in KangarooTwelve tree (proven security reduction)
+  2. Sentinel Break (0xFFFFFFFF) domain separation between SHA-512 and K12
+  3. Truncation native to XOF squeeze: no post-hoc truncation
+  4. First verified K12 implementation on 8-bit MCU with NASA-10+ compliance
+  5. Zero-heap streaming SHA-512 on 128-byte W schedule stack
